@@ -31,7 +31,7 @@ jobs:
         npm install -g grunt-cli
         npm install -d
         grunt build
-        ls -l
+        ls -l 
         
     
     
